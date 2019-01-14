@@ -48,6 +48,10 @@
 
 > *"Eu fui em um show dos Mamonas Assasinas" - (AUGUSTO, Thiago)*
 
+> *"SAI DAI, VIDAAAAL !" - (MATTOS, Celso)*
+
+> *"Você Joga?" - (JUSTINO, Rodrigo)*
+
 [atmos]: https://github.com/atmosmps
 [fredson]: https://github.com/fredsonrodrigues
 [letox]: https://github.com/werliton
